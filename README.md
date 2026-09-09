@@ -14,7 +14,7 @@ CyberShieldChatbot is built to provide an engaging and secure terminal experienc
 
 ---
 
-## ⚙️ System Requirements & Platform Compatibility
+##System Requirements & Platform Compatibility
 * **Operating System:** Windows (Required due to platform-specific multimedia dependencies using `System.Media`).
 * **Environment:** .NET SDK (Compatible with .NET 8.0 or later).
 * **IDE:** Visual Studio.
