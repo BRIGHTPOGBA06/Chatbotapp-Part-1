@@ -26,3 +26,5 @@ CyberShieldChatbot is built to provide an engaging and secure terminal experienc
 1. **Clone the Repository:**
    ```bash
    git clone [https://github.com/BRIGHTPOGBA06/Chatbotapp-Part-1.git](https://github.com/BRIGHTPOGBA06/Chatbotapp-Part-1.git)
+
+<img width="1257" height="73" alt="image" src="https://github.com/user-attachments/assets/6a5b9385-5e1a-4c11-a69d-1345f4847877" />
